@@ -4643,4 +4643,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 290,
         .trainerOffset = 2,
     },
+
+    [NATIONAL_DEX_PIDOVE] =
+    {
+        .categoryName = _("TINY PIGEON"),
+        .height = 3,
+        .weight = 21,
+        .description = gPidovePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 290,
+        .trainerOffset = 2,
+    }
 };

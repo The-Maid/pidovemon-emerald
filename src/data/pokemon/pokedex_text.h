@@ -2319,3 +2319,8 @@ const u8 gDeoxysPokedexText[] = _(
     "extraterrestrial virus exposed to a laser\n"
     "beam. Its body is configured for superior\n"
     "agility and speed.");
+
+const u8 gPidovePokedexText[] = _(
+     "These Pokémon live in cities.\n"
+     "They are accustomed to people.\n"
+     "Flocks often gather in parks and plazas.");

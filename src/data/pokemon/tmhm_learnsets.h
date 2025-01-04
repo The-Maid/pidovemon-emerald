@@ -10179,5 +10179,22 @@ const union {
         .SNATCH = TRUE,
         .FLASH = TRUE,
     } },
-
+    [SPECIES_PIDOVE] = { .learnset = {
+        .TOXIC = TRUE,
+        .HIDDEN_POWER = TRUE,
+        .SUNNY_DAY = TRUE,
+        .TAUNT = TRUE,
+        .PROTECT = TRUE,
+        .RAIN_DANCE = TRUE,
+        .FRUSTRATION = TRUE,
+        .RETURN = TRUE,
+        .DOUBLE_TEAM = TRUE,
+        .AERIAL_ACE = TRUE,
+        .FACADE = TRUE,
+        .REST = TRUE,
+        .ATTRACT = TRUE,
+        .STEEL_WING = TRUE,
+        .FLY = TRUE,
+        .SECRET_POWER = TRUE,
+    }}
 };

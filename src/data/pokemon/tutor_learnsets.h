@@ -5747,5 +5747,7 @@ static const u32 sTutorLearnsets[] =
                                 | TUTOR(MOVE_SLEEP_TALK)
                                 | TUTOR(MOVE_DEFENSE_CURL)),
 
+    [SPECIES_PIDOVE]           = (TUTOR(MOVE_SNORE)
+                                | TUTOR(MOVE_SLEEP_TALK)),
 };
 

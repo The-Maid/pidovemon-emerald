@@ -2744,7 +2744,7 @@ extern const u32 gMonFrontPic_Pidove[];
 extern const u32 gMonPalette_Pidove[];
 extern const u32 gMonBackPic_Pidove[];
 extern const u32 gMonShinyPalette_Pidove[];
-extern const u32 gMonStillFrontPic_[];
+extern const u32 gMonStillFrontPic_Pidove[];
 extern const u8 gMonIcon_Pidove[];
 extern const u8 gMonFootprint_Pidove[];
 extern const u32 gMonPic_Egg[];
