@@ -1,11 +1,9 @@
-# Pokémon Emerald
+# Pidovemon Emerald
 
-This is a decompilation of Pokémon Emerald.
+Adds pidove to Gen 3 of pokemon
 
-It builds the following ROM:
+In addition it makes minor changes for the sake of solo runs. (Allowing HMs to be used from the bag, makes pidove a starter pokemon)
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+To install either patch a rom using the file in releases or build the repo using the instructions listed below.
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+This romhack was made using pret's pokeemerald a decompilation of pokemon emerald
