@@ -2712,6 +2712,13 @@ const u32 gMonShinyPalette_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/sh
 const u8 gMonIcon_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/icon.4bpp");
 const u8 gMonFootprint_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/footprint.1bpp");
 
+const u32 gMonStillFrontPic_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/front.4bpp.lz");
+const u32 gMonPalette_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/normal.gbapal.lz");
+const u32 gMonBackPic_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/back.4bpp.lz");
+const u32 gMonShinyPalette_Pidove[] = INCBIN_U32("graphics/pokemon/pidove/shiny.gbapal.lz");
+const u8 gMonIcon_Pidove[] = INCBIN_U8("graphics/pokemon/pidove/icon.4bpp");
+const u8 gMonFootprint_Pidove[] = INCBIN_U8("graphics/pokemon/pidove/footprint.1bpp");
+
 const u32 gMonStillFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/front.4bpp.lz");
 const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
 
