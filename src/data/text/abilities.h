@@ -76,8 +76,8 @@ static const u8 sPurePowerDescription[] = _("Raises ATTACK.");
 static const u8 sShellArmorDescription[] = _("Blocks critical hits.");
 static const u8 sCacophonyDescription[] = _("Avoids sound-based moves.");
 static const u8 sAirLockDescription[] = _("Negates weather effects.");
-static const u8 sBigPecksDescription[] = _("Protects the Pokémon from Defense-lowering attacks.");
-static const u8 sSuperLuckDescription[] = _("Heightens the critical-hit ratios of moves.");
+static const u8 sBigPecksDescription[] = _("Prevents DEFENSE reduction");
+static const u8 sSuperLuckDescription[] = _("Boosts the critical-hit ratios");
 
 const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
 {
